@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install -D tailwindcss postcss autoprefixer`
+In order to install tailwind dependencies
+
+### `npx tailwindcss init -p`
+In order to install tailwind dependencies
+
+### `npm i react-reveal --save`
+React Reveal animation dependencies installation
+
+### `npm install react-scroll`
+React Scroll installation
+
 ### `npm start`
 
 Runs the app in the development mode.\
